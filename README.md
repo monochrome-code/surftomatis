@@ -15,6 +15,6 @@
   -don't forget to write down the characters " and ; <br>
   <li>Return to the auto main directory and type ./run.sh</li>
 <li>tools will automatically make requests and increase the amount of traffic to the link that has been inputted to url.php earlier</li>
-  <li>Type ctrl + c to stop</li>
+  <li>Type ctrl+C to stop</li>
 </ol>
 <h4><b>Created by monochrome-code</b></h4>
